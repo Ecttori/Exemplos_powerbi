@@ -1,5 +1,7 @@
 Exemplos de dados de vendas fictícios do comércio "Petshop", e tipos de indicadores por faturamento.
 
+Etapas do processo:
+
 - Importação de tipos de dado
 
 - Ajustes na modelagem de dados
