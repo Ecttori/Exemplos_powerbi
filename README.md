@@ -1,6 +1,6 @@
 Exemplos de dados de vendas fictícios do comércio "Petshop", e tipos de indicadores por faturamento.
 
-- Importação de tipos dados
+- Importação de tipos de dado
 - Ajustes na modelagem de dados
 - Transformação de dados PowerQuery
 - Calculos de indicadores no DAX
