@@ -15,13 +15,14 @@ Etapas do processo:
 - Publicação para organização e usuário final. (no momento estou sem licença para publicar no PowerBI, em breve vou estabelecer)
 
 
-![image](https://github.com/user-attachments/assets/46eb568d-b93a-4f61-813c-8b06768a84fa)
+![image](https://github.com/user-attachments/assets/a706367d-d29e-4ea4-ac93-d54eb171f7b4)
 
 
-![image](https://github.com/user-attachments/assets/ce6899ba-d587-4704-8ea9-4009fddded1c)
-
-
-![image](https://github.com/user-attachments/assets/7f805f9d-7817-4be8-abd7-67e8f22892f6)
+![image](https://github.com/user-attachments/assets/2070b66b-31a5-47e4-ab49-0e5c20b48726)
 
  
-![image](https://github.com/user-attachments/assets/eebb25c6-dccf-407c-b457-ef9eb53cc22e)
+![image](https://github.com/user-attachments/assets/db2c8c6c-320f-4d8e-958d-23042ea7aa87)
+
+
+![image](https://github.com/user-attachments/assets/c6faee17-9c5b-4e06-a292-b956f49a0c9f)
+
