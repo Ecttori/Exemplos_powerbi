@@ -12,8 +12,9 @@ Etapas do processo:
 
 - Formatação visual de cada painel dentro do dashboard final
   
-- Publicação para organização e usuário final. (no momento estou sem licença para publicar no PowerBI, em breve vou estabelecer)
+- Publicação para organização e usuário final.
 
+Link dashboard:
 https://app.powerbi.com/view?r=eyJrIjoiZDM2MjIzOWMtOTE3YS00ZmZiLWJkZWItMTg4NTZjN2ZiNDdmIiwidCI6Ijg4Nzg4MjA0LTA4Y2QtNDg3Ni1iNmY5LWU0NGM3Y2M4Y2IxNSJ9
 
 
@@ -23,3 +24,6 @@ https://app.powerbi.com/view?r=eyJrIjoiZDM2MjIzOWMtOTE3YS00ZmZiLWJkZWItMTg4NTZjN
 
 ![image](https://github.com/user-attachments/assets/1591ae8a-e789-4acb-aff6-c4bb3d348055)
 
+
+
+![image](https://github.com/user-attachments/assets/0d4fb2b4-001e-40a4-999f-1e16f58aea9f)
