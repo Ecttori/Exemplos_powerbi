@@ -2,7 +2,7 @@ Exemplos de dados de vendas fictícios do comércio "Petshop", e tipos de indica
 
 Etapas do processo:
 
-- Importação de tipos de arquivos
+- Importação de tipos de arquivos (.xlsx, .txt )
 
 - Ajustes na modelagem de dados
   
@@ -16,7 +16,7 @@ Etapas do processo:
 
 Link dashboard:
 
-https://app.powerbi.com/view?r=eyJrIjoiZDM2MjIzOWMtOTE3YS00ZmZiLWJkZWItMTg4NTZjN2ZiNDdmIiwidCI6Ijg4Nzg4MjA0LTA4Y2QtNDg3Ni1iNmY5LWU0NGM3Y2M4Y2IxNSJ9
+https://app.powerbi.com/view?r=eyJrIjoiZjFjZTg2NGUtOGE5My00M2NmLWIxNzYtZDE1Y2U2ZDRjMjc2IiwidCI6Ijg4Nzg4MjA0LTA4Y2QtNDg3Ni1iNmY5LWU0NGM3Y2M4Y2IxNSJ9
 
 
 ![image](https://github.com/user-attachments/assets/98527d81-b256-4636-8a87-18b2711f9d98)
